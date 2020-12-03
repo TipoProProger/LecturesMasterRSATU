@@ -49,8 +49,9 @@ Z0 - цель верхнего уровня (генеральная цель)
 5. В хорошо организованной системе за выполнение каждой цели должен нести ответственность только один орган управления (структурный элемент). То есть иерархия дерева целей долна совпадать с иерархией организационной структуры предприятия.
 
 Обычно требуется при возникновении проблем на предприятии, организации или производстве.
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTI3NjU3OTcsMTE2MTI2ODcwNSwxNj
-kyNDIxMjg3LDE1NjY4NzY4NSwtMTQ1Mzg1NTg5Ml19
+eyJoaXN0b3J5IjpbLTkyMjM2ODkxNSwxMTYxMjY4NzA1LDE2OT
+I0MjEyODcsMTU2Njg3Njg1LC0xNDUzODU1ODkyXX0=
 -->
